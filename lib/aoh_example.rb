@@ -20,7 +20,7 @@ def literal_aoh
   # held in the constants
   
   people = [
-    
+    { name:  "Don Gately", occupation: "Live-in Staff" }, 
     ]
   
 end
